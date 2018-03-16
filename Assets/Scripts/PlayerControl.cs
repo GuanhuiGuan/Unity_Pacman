@@ -20,13 +20,32 @@ public class PlayerControl : MonoBehaviour {
     private float runTime = 0.0f;
     private int allFood;
 
+    // Sound effects
+    private AudioSource audioSource;
+    public AudioClip colSound;
+    public AudioClip victory;
+    public AudioClip failure;
+    public AudioClip powerUp;
+    public AudioClip powerUpExpired;
+    public AudioClip eatFood;
+    public AudioClip eatGhost;
+
+
     // UI
     public Text countText;
     public Text endGameText;
     private bool ended = false, defeated = false;
 
-	// Use this for initialization
-	void Start () {
+
+    // awake
+    private void Awake()
+    {
+        audioSource = GetComponent<AudioSource>();
+    }
+
+
+    // Use this for initialization
+    void Start () {
         // get the component of current gameobject
         intensity = Init_Intensity;
         rb = GetComponent<Rigidbody>();
@@ -46,16 +65,10 @@ public class PlayerControl : MonoBehaviour {
 
         if (!ended)
         {
-            float movHor = Input.GetAxis("Horizontal");
-            float movVer = Input.GetAxis("Vertical");
-
+        
             // check if taken capsule and still valid
             CheckInvincibility();
-
-            // update force
-            Vector3 force = new Vector3(movHor, 0.0f, movVer);
-            rb.AddForce(intensity * force);
-
+            
             // update UI
             UpdatePoint(0);
             UpdateEndGame();
@@ -63,23 +76,40 @@ public class PlayerControl : MonoBehaviour {
 	}
 
 
+    // Physics update
+    private void FixedUpdate()
+    {
+        if(!ended)
+        {
+            float movHor = Input.GetAxis("Horizontal");
+            float movVer = Input.GetAxis("Vertical");
+
+            // update force
+            Vector3 force = new Vector3(movHor, 0.0f, movVer);
+            rb.AddForce(intensity * force);
+        }
+    }
+
+
 
 
     // check if invincible
     private void CheckInvincibility()
     {
-        if (timer <= 0)
-        {
-            invincible = false;
-            Debug.Log("Capsule expired!");
-            timer = 0;
-            intensity = Init_Intensity;
-            playerGlow.gameObject.SetActive(false);
-        }
-        else
+        if (timer > 0)
         {
             // invincible = true;
             timer -= Time.deltaTime;
+
+            if(timer <= 0)
+            {
+                invincible = false;
+                Debug.Log("Capsule expired!");
+                timer = 0;
+                intensity = Init_Intensity;
+                playerGlow.gameObject.SetActive(false);
+                audioSource.PlayOneShot(powerUpExpired);
+            }
         }
     }
 
@@ -100,6 +130,8 @@ public class PlayerControl : MonoBehaviour {
             invincible = true;
             playerGlow.gameObject.SetActive(true);
 
+            
+            audioSource.PlayOneShot(powerUp);
             UpdatePoint(10);
         }
 
@@ -110,6 +142,7 @@ public class PlayerControl : MonoBehaviour {
             other.gameObject.SetActive(false);
             count++;
 
+            audioSource.PlayOneShot(eatFood, 0.6f);
             UpdatePoint(5);
         }
 
@@ -117,12 +150,14 @@ public class PlayerControl : MonoBehaviour {
         else if(other.gameObject.CompareTag("Ghost"))
         {
             Debug.Log("Meet Ghost!!!");
+            
 
             if(invincible)
             {
                 Debug.Log("Ghost defeated!");
                 other.gameObject.SetActive(false);
 
+                audioSource.PlayOneShot(eatGhost, 0.8f);
                 UpdatePoint(100);
             }
 
@@ -134,7 +169,32 @@ public class PlayerControl : MonoBehaviour {
             }
             
         }
+
+        else if(other.gameObject.CompareTag("Wall"))
+        {
+            // float vol = collision.relativeVelocity.magnitude * baseVol;
+            float vol = 1.0f;
+            //audioSource.PlayOneShot(colSound, vol);
+        }
     }
+
+
+    // collision detection to get relative speed
+    private void OnCollisionEnter(Collision collision)
+    {
+        float baseVol = 0.3f;
+        
+        if(!ended)
+        {
+            if(collision.gameObject.CompareTag("Wall"))
+            {
+                
+                float vol = collision.relativeVelocity.magnitude * baseVol;
+                audioSource.PlayOneShot(colSound, vol);
+            }
+        }
+    }
+    
 
 
     // update point and UI
@@ -161,6 +221,7 @@ public class PlayerControl : MonoBehaviour {
         {
             ended = true;
             Debug.Log("You won!");
+            audioSource.PlayOneShot(victory);
             endGameText.text = "You Won!\nYour score is " + point.ToString() + "\nPress 'Esc' to restart";
         }
 
@@ -172,6 +233,7 @@ public class PlayerControl : MonoBehaviour {
             // gameObject.SetActive(false);
 
             Debug.Log("You lost!");
+            audioSource.PlayOneShot(failure);
             endGameText.text = "You Lost!\nYour score is " + point.ToString() + "\nPress 'Esc' to restart";
 
         }
@@ -184,7 +246,7 @@ public class PlayerControl : MonoBehaviour {
     {
         if (Input.GetKeyDown(KeyCode.Escape))
         {
-            
+            Debug.Log("Scene Reloaded!");
             SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
         }
     }
