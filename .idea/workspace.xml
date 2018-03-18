@@ -1,0 +1,910 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6c10913e-d56b-4481-a731-bf9b7c2ce17d" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="$PROJECT_DIR$/.vs/Maze/v15/Browse.VC.db" afterPath="$PROJECT_DIR$/.vs/Maze/v15/Browse.VC.db" />
+      <change beforePath="$PROJECT_DIR$/.vs/Maze/v15/Server/sqlite3/storage.ide" afterPath="$PROJECT_DIR$/.vs/Maze/v15/Server/sqlite3/storage.ide" />
+      <change beforePath="$PROJECT_DIR$/.vs/Maze/v15/Server/sqlite3/storage.ide-shm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.vs/Maze/v15/Server/sqlite3/storage.ide-wal" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/Ghost.mat.meta" afterPath="$PROJECT_DIR$/Assets/Materials/Ghost.mat.meta" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Scenes/Maze_PreAlpha.unity" afterPath="$PROJECT_DIR$/Assets/_Scenes/Maze_PreAlpha.unity" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Scenes/Maze_PreAlpha/NavMesh.asset" afterPath="$PROJECT_DIR$/Assets/_Scenes/Maze_PreAlpha/NavMesh.asset" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Scenes/Maze_PreAlpha/NavMesh.asset.meta" afterPath="$PROJECT_DIR$/Assets/_Scenes/Maze_PreAlpha/NavMesh.asset.meta" />
+      <change beforePath="$PROJECT_DIR$/Builds/PreAlpha_Win/Maze_PreAlpha_Data/globalgamemanagers" afterPath="$PROJECT_DIR$/Builds/PreAlpha_Win/Maze_PreAlpha_Data/globalgamemanagers" />
+      <change beforePath="$PROJECT_DIR$/Builds/PreAlpha_Win/Maze_PreAlpha_Data/globalgamemanagers.assets" afterPath="$PROJECT_DIR$/Builds/PreAlpha_Win/Maze_PreAlpha_Data/globalgamemanagers.assets" />
+      <change beforePath="$PROJECT_DIR$/Builds/PreAlpha_Win/Maze_PreAlpha_Data/level0" afterPath="$PROJECT_DIR$/Builds/PreAlpha_Win/Maze_PreAlpha_Data/level0" />
+      <change beforePath="$PROJECT_DIR$/Builds/PreAlpha_Win/Maze_PreAlpha_Data/sharedassets0.assets" afterPath="$PROJECT_DIR$/Builds/PreAlpha_Win/Maze_PreAlpha_Data/sharedassets0.assets" />
+      <change beforePath="$PROJECT_DIR$/Builds/PreAlpha_Win/Maze_PreAlpha_Data/sharedassets0.assets.resS" afterPath="$PROJECT_DIR$/Builds/PreAlpha_Win/Maze_PreAlpha_Data/sharedassets0.assets.resS" />
+      <change beforePath="$PROJECT_DIR$/Library/AssetImportState" afterPath="$PROJECT_DIR$/Library/AssetImportState" />
+      <change beforePath="$PROJECT_DIR$/Library/CurrentLayout.dwlt" afterPath="$PROJECT_DIR$/Library/CurrentLayout.dwlt" />
+      <change beforePath="$PROJECT_DIR$/Library/EditorInstance.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Library/EditorUserBuildSettings.asset" afterPath="$PROJECT_DIR$/Library/EditorUserBuildSettings.asset" />
+      <change beforePath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" afterPath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" />
+      <change beforePath="$PROJECT_DIR$/Library/LastBuild.buildreport" afterPath="$PROJECT_DIR$/Library/LastBuild.buildreport" />
+      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Data/Managed/UnityEngine.AIModule.dll.mdb" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Data/Managed/UnityEngine.ARModule.dll.mdb" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Data/Managed/UnityEngine.AccessibilityModule.dll.mdb" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Data/Managed/UnityEngine.AnimationModule.dll.mdb" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Data/Managed/UnityEngine.AssetBundleModule.dll.mdb" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Data/Managed/UnityEngine.AudioModule.dll.mdb" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Data/Managed/UnityEngine.ClothModule.dll.mdb" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Data/Managed/UnityEngine.CoreModule.dll.mdb" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Data/Managed/UnityEngine.CrashReportingModule.dll.mdb" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Data/Managed/UnityEngine.DirectorModule.dll.mdb" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Data/Managed/UnityEngine.GameCenterModule.dll.mdb" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Data/Managed/UnityEngine.GridModule.dll.mdb" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Data/Managed/UnityEngine.IMGUIModule.dll.mdb" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Data/Managed/UnityEngine.ImageConversionModule.dll.mdb" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Data/Managed/UnityEngine.InputModule.dll.mdb" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Data/Managed/UnityEngine.JSONSerializeModule.dll.mdb" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Data/Managed/UnityEngine.ParticleSystemModule.dll.mdb" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Data/Managed/UnityEngine.ParticlesLegacyModule.dll.mdb" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Data/Managed/UnityEngine.PerformanceReportingModule.dll.mdb" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Data/Managed/UnityEngine.Physics2DModule.dll.mdb" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Data/Managed/UnityEngine.PhysicsModule.dll.mdb" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Data/Managed/UnityEngine.ScreenCaptureModule.dll.mdb" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Data/Managed/UnityEngine.SharedInternalsModule.dll.mdb" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Data/Managed/UnityEngine.SpriteMaskModule.dll.mdb" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Data/Managed/UnityEngine.SpriteShapeModule.dll.mdb" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Data/Managed/UnityEngine.StyleSheetsModule.dll.mdb" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Data/Managed/UnityEngine.TerrainModule.dll.mdb" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Data/Managed/UnityEngine.TerrainPhysicsModule.dll.mdb" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Data/Managed/UnityEngine.TextRenderingModule.dll.mdb" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Data/Managed/UnityEngine.TilemapModule.dll.mdb" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Data/Managed/UnityEngine.UIElementsModule.dll.mdb" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Data/Managed/UnityEngine.UIModule.dll.mdb" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Data/Managed/UnityEngine.UNETModule.dll.mdb" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Data/Managed/UnityEngine.UnityAnalyticsModule.dll.mdb" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Data/Managed/UnityEngine.UnityConnectModule.dll.mdb" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll.mdb" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Data/Managed/UnityEngine.UnityWebRequestModule.dll.mdb" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll.mdb" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll.mdb" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Data/Managed/UnityEngine.VRModule.dll.mdb" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Data/Managed/UnityEngine.VehiclesModule.dll.mdb" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Data/Managed/UnityEngine.VideoModule.dll.mdb" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Data/Managed/UnityEngine.WebModule.dll.mdb" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Data/Managed/UnityEngine.WindModule.dll.mdb" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Data/Managed/UnityEngine.dll.mdb" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Data/Resources/unity_builtin_extra" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/Data/Resources/unity_builtin_extra" />
+      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Data/globalgamemanagers" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/Data/globalgamemanagers" />
+      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Data/globalgamemanagers.assets" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/Data/globalgamemanagers.assets" />
+      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Data/level0" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/Data/level0" />
+      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Data/level0.resS" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/Data/level0.resS" />
+      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Data/sharedassets0.assets" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/Data/sharedassets0.assets" />
+      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Data/sharedassets0.assets.resS" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/Data/sharedassets0.assets.resS" />
+      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/ScriptLayoutHashes.txt" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/ScriptLayoutHashes.txt" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptMapper" afterPath="$PROJECT_DIR$/Library/ScriptMapper" />
+      <change beforePath="$PROJECT_DIR$/Library/ShaderCache.db" afterPath="$PROJECT_DIR$/Library/ShaderCache.db" />
+      <change beforePath="$PROJECT_DIR$/Library/assetDatabase3" afterPath="$PROJECT_DIR$/Library/assetDatabase3" />
+      <change beforePath="$PROJECT_DIR$/Library/expandedItems" afterPath="$PROJECT_DIR$/Library/expandedItems" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/00/00000000000000004000000000000000" afterPath="$PROJECT_DIR$/Library/metadata/00/00000000000000004000000000000000" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/00/00000000000000006100000000000000" afterPath="$PROJECT_DIR$/Library/metadata/00/00000000000000006100000000000000" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/0a/0a5d09ba02c99cf4fbc9617f271027a6" afterPath="$PROJECT_DIR$/Library/metadata/0a/0a5d09ba02c99cf4fbc9617f271027a6" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/98/98c00ae507c600944b56f27da27b3fea" afterPath="$PROJECT_DIR$/Library/metadata/98/98c00ae507c600944b56f27da27b3fea" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/98/98c00ae507c600944b56f27da27b3fea.info" afterPath="$PROJECT_DIR$/Library/metadata/98/98c00ae507c600944b56f27da27b3fea.info" />
+      <change beforePath="$PROJECT_DIR$/Maze.csproj" afterPath="$PROJECT_DIR$/Maze.csproj" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" />
+      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change beforePath="$PROJECT_DIR$/Temp/ProcessJobs/e9a6970f79cd12d8b075e7d72f1b07cb.bakert" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Metadata/global-metadata.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Resources/mscorlib.dll-resources.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/mono/2.0/machine.config" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/mono/4.0/machine.config" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/Resources/unity_builtin_extra" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/UnityEngine.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/boot.config" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/globalgamemanagers" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/globalgamemanagers.assets" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/level0" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/level0.resS" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/sharedassets0.assets" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/sharedassets0.assets.resS" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/sharedassets0.resource" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/unity default resources" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/._build" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/CrashReporter.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/CrashReporter.mm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/PLCrashReporter.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/PluginBase/AppDelegateListener.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/PluginBase/AppDelegateListener.mm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/PluginBase/LifeCycleListener.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/PluginBase/LifeCycleListener.mm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/PluginBase/RenderPluginDelegate.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/PluginBase/RenderPluginDelegate.mm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/PluginBase/UnityViewControllerListener.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/PluginBase/UnityViewControllerListener.mm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/Preprocessor.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/Quaternion4.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/UI/ActivityIndicator.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/UI/ActivityIndicator.mm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/UI/Keyboard.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/UI/Keyboard.mm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/UI/OrientationSupport.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/UI/OrientationSupport.mm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/UI/SplashScreen.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/UI/SplashScreen.mm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/UI/StoreReview.m" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/UI/UnityAppController+ViewHandling.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/UI/UnityAppController+ViewHandling.mm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/UI/UnityView+iOS.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/UI/UnityView+iOS.mm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/UI/UnityView+tvOS.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/UI/UnityView+tvOS.mm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/UI/UnityView.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/UI/UnityView.mm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/UI/UnityViewControllerBase+iOS.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/UI/UnityViewControllerBase+iOS.mm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/UI/UnityViewControllerBase+tvOS.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/UI/UnityViewControllerBase+tvOS.mm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/UI/UnityViewControllerBase.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/UI/UnityViewControllerBase.mm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/Unity/AVCapture.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/Unity/AVCapture.mm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/Unity/CMVideoSampling.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/Unity/CMVideoSampling.mm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/Unity/CVTextureCache.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/Unity/CVTextureCache.mm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/Unity/CameraCapture.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/Unity/CameraCapture.mm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/Unity/DeviceSettings.mm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/Unity/DisplayManager.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/Unity/DisplayManager.mm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/Unity/EAGLContextHelper.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/Unity/EAGLContextHelper.mm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/Unity/Filesystem.mm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/Unity/FullScreenVideoPlayer.mm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/Unity/GlesHelper.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/Unity/GlesHelper.mm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/Unity/IUnityGraphics.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/Unity/IUnityGraphicsMetal.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/Unity/IUnityInterface.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/Unity/InternalProfiler.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/Unity/InternalProfiler.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/Unity/MetalHelper.mm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/Unity/ObjCRuntime.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/Unity/OnDemandResources.mm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/Unity/UnityForwardDecls.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/Unity/UnityInterface.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/Unity/UnityMetalSupport.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/Unity/UnityRendering.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/Unity/UnityReplayKit.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/Unity/UnityReplayKit.mm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/Unity/UnityReplayKit_Scripting.mm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/Unity/UnityTrampolineCompatibility.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/Unity/VideoPlayer.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/Unity/VideoPlayer.mm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/Unity/WWWConnection.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/Unity/WWWConnection.mm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/UnityAds/UnityAdsConfig.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/UnityAds/UnityAdsUnityWrapper.mm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/UnityAppController+Rendering.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/UnityAppController+Rendering.mm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/UnityAppController+UnityInterface.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/UnityAppController+UnityInterface.mm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/UnityAppController.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/UnityAppController.mm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/UnityTrampolineConfigure.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/Vector3.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/iPhone_Sensors.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/iPhone_Sensors.mm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Classes/main.mm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Data/Managed/Metadata/global-metadata.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Data/Managed/Resources/mscorlib.dll-resources.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Data/Managed/mono/2.0/machine.config" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Data/Managed/mono/4.0/machine.config" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Data/Resources/unity_builtin_extra" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Data/UnityEngine.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Data/boot.config" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Data/globalgamemanagers" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Data/globalgamemanagers.assets" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Data/level0" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Data/level0.resS" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Data/sharedassets0.assets" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Data/sharedassets0.assets.resS" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Data/sharedassets0.resource" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Data/unity default resources" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Info.plist" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/LaunchScreen-iPad.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/LaunchScreen-iPad.xib" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/LaunchScreen-iPhone.xib" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/LaunchScreen-iPhoneLandscape.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/LaunchScreen-iPhonePortrait.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/Il2CppOptions.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/RegisterFeatures.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/RegisterFeatures.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/RegisterMonoModules.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/RegisterMonoModules.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/char-conversions.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/codegen/il2cpp-codegen-common.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/codegen/il2cpp-codegen-il2cpp.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/codegen/il2cpp-codegen-mono.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/codegen/il2cpp-codegen.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/external/google/sparsehash/dense_hash_map.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/external/google/sparsehash/dense_hash_set.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/external/google/sparsehash/densehashtable.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/external/google/sparsehash/type_traits.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/external/xamarin-android/logger.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/external/xamarin-android/monodroid.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/external/xamarin-android/xamarin_getifaddrs.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/external/zlib/crc32.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/external/zlib/deflate.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/external/zlib/inffast.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/external/zlib/inffixed.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/external/zlib/inflate.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/external/zlib/inftrees.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/external/zlib/trees.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/external/zlib/zconf.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/external/zlib/zlib.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/external/zlib/zutil.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/externals/MonoPosixHelper.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/gc/Allocator.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/gc/AppendOnlyGCHashMap.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/gc/GCHandle.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/gc/GarbageCollector.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/gc/WriteBarrier.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/gc/gc_wrapper.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icallincludes.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/System.Configuration/System.Configuration/InternalConfigurationHost.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/System.Core/System.IO.MemoryMappedFiles/MemoryMapImpl.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/System/Microsoft.Win32/NativeMethods.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/System/Mono.Net.Security/MonoTlsProviderFactory.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/System/System.ComponentModel/Win32Exception.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/System/System.Configuration/DefaultConfig.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/System/System.Configuration/InternalConfigurationHost.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/System/System.Diagnostics/DefaultTraceListener.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/System/System.Diagnostics/FileVersionInfo.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/System/System.Diagnostics/PerformanceCounter.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/System/System.Diagnostics/PerformanceCounterCategory.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/System/System.Diagnostics/PerformanceCounterUtils.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/System/System.Diagnostics/Process.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/System/System.Diagnostics/Stopwatch.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/System/System.Diagnostics/perfcounters-def.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/System/System.IO/FAMWatcher.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/System/System.IO/FileSystemWatcher.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/System/System.IO/InotifyWatcher.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/System/System.IO/KqueueMonitor.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/System/System.Net.NetworkInformation/LinuxNetworkInterface.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/System/System.Net.NetworkInformation/MacOsIPInterfaceProperties.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/System/System.Net.Sockets/Socket.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/System/System.Net.Sockets/SocketException.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/System/System.Net/Dns.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/System/System.Threading/Semaphore.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/System/System/IOSelector.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/Mono.Globalization.Unicode/Normalization.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/Mono.Interop/ComInteropProxy.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/Mono.Security.Cryptography/KeyPairPersistence.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/Mono/Runtime.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/Mono/RuntimeClassHandle.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/Mono/RuntimeGPtrArrayHandle.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/Mono/RuntimeMarshal.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/Mono/SafeStringMarshal.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Diagnostics/Assert.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Diagnostics/Debugger.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Diagnostics/StackFrame.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Diagnostics/StackTrace.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Globalization/CalendarData.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Globalization/CompareInfo.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Globalization/CompareOptions.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Globalization/CultureData.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Globalization/CultureInfo.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Globalization/CultureInfoInternals.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Globalization/CultureInfoTables.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Globalization/RegionInfo.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.IO/DriveInfo.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.IO/MonoIO.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.IO/Path.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Reflection.Emit/AssemblyBuilder.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Reflection.Emit/CustomAttributeBuilder.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Reflection.Emit/DerivedType.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Reflection.Emit/DynamicMethod.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Reflection.Emit/EnumBuilder.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Reflection.Emit/GenericTypeParameterBuilder.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Reflection.Emit/MethodBuilder.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Reflection.Emit/ModuleBuilder.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Reflection.Emit/SignatureHelper.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Reflection.Emit/SymbolType.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Reflection.Emit/TypeBuilder.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Reflection/Assembly.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Reflection/AssemblyName.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Reflection/CustomAttributeData.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Reflection/EventInfo.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Reflection/FieldInfo.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Reflection/MemberInfo.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Reflection/MethodBase.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Reflection/Module.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Reflection/MonoCMethod.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Reflection/MonoEventInfo.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Reflection/MonoField.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Reflection/MonoGenericCMethod.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Reflection/MonoGenericClass.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Reflection/MonoGenericMethod.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Reflection/MonoMethod.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Reflection/MonoMethodInfo.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Reflection/MonoPropertyInfo.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Reflection/ParameterInfo.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Reflection/PropertyInfo.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Reflection/RtFieldInfo.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Runtime.CompilerServices/RuntimeHelpers.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Runtime.InteropServices.WindowsRuntime/UnsafeNativeMethods.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Runtime.InteropServices/GCHandle.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Runtime.InteropServices/Marshal.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Runtime.Remoting.Activation/ActivationServices.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Runtime.Remoting.Contexts/Context.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Runtime.Remoting.Messaging/AsyncResult.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Runtime.Remoting.Messaging/MonoMethodMessage.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Runtime.Remoting.Proxies/RealProxy.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Runtime.Remoting/RemotingServices.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Runtime.Versioning/VersioningHelper.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Security.Cryptography/RNGCryptoServiceProvider.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Security.Policy/Evidence.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Security.Principal/WindowsIdentity.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Security.Principal/WindowsImpersonationContext.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Security.Principal/WindowsPrincipal.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Security/SecurityFrame.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Security/SecurityManager.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Text/Encoding.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Text/EncodingHelper.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Text/Normalization.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Threading/Interlocked.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Threading/InternalThread.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Threading/Monitor.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Threading/Mutex.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Threading/NativeEventCalls.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Threading/Thread.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Threading/ThreadPool.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Threading/Timer.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System.Threading/WaitHandle.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System/Activator.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System/AppDomain.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System/ArgIterator.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System/Array.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System/Buffer.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System/CLRConfig.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System/Char.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System/ConsoleDriver.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System/Convert.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System/CurrentSystemTimeZone.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System/DateTime.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System/Decimal.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System/Delegate.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System/Double.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System/Enum.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System/Environment.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System/Exception.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System/GC.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System/Math.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System/MissingMemberException.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System/MonoCustomAttrs.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System/MonoEnumInfo.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System/MonoType.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System/Number.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System/NumberFormatter.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System/Object.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System/RuntimeFieldHandle.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System/RuntimeMethodHandle.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System/RuntimeType.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System/RuntimeTypeHandle.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System/SizedReference.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System/String.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System/TimeSpan.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System/TimeZoneInfo.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System/Type.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System/TypedReference.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System/ValueType.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/icalls/mscorlib/System/__ComObject.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/il2cpp-api-functions.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/il2cpp-api-types.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/il2cpp-api.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/il2cpp-blob.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/il2cpp-class-internals.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/il2cpp-config.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/il2cpp-metadata.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/il2cpp-normalization-tables.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/il2cpp-number-formatter.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/il2cpp-object-internals.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/il2cpp-runtime-metadata.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/il2cpp-string-types.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/il2cpp-tabledefs.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/il2cpp-vm-support.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/libil2cpp.def" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/libil2cpp.icalls" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/metadata/ArrayMetadata.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/metadata/FieldLayout.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/metadata/GenericMetadata.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/metadata/GenericMethod.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/metadata/GenericSharing.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/metadata/Il2CppGenericClassCompare.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/metadata/Il2CppGenericClassHash.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/metadata/Il2CppGenericContextCompare.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/metadata/Il2CppGenericContextHash.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/metadata/Il2CppGenericInstCompare.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/metadata/Il2CppGenericInstHash.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/metadata/Il2CppGenericMethodCompare.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/metadata/Il2CppGenericMethodHash.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/metadata/Il2CppSignatureCompare.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/metadata/Il2CppSignatureHash.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/metadata/Il2CppTypeCompare.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/metadata/Il2CppTypeHash.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/metadata/Il2CppTypeVector.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/mono-runtime/il2cpp-callbacks.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/mono-runtime/il2cpp-mapping.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/mono-runtime/il2cpp-mono-support.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/mono-structs.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/mono/ThreadPool/ThreadPoolDataStructures.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/mono/ThreadPool/ThreadPoolMacros.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/mono/ThreadPool/ThreadPoolMonitorThread.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/mono/ThreadPool/ThreadPoolWorkerThread.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/mono/ThreadPool/threadpool-ms-io-poll.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/mono/ThreadPool/threadpool-ms-io.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/mono/ThreadPool/threadpool-ms.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Atomic.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/COM.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/ConditionVariable.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Console.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/CpuInfo.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Cryptography.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Debug.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Directory.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Encoding.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Environment.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Error.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/ErrorCodes.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Event.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/File.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/FileSystemWatcher.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Generic/SocketImpl.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Handle.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Image.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Initialize.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/LastError.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/LibraryLoader.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Locale.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/MarshalAlloc.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/MarshalStringAlloc.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Memory.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/MemoryMappedFile.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Messages.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Mutex.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/NativeMethods.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Path.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Posix/AtomicImpl.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Posix/ConditionVariableImpl.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Posix/Error.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Posix/EventImpl.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Posix/FileHandle.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Posix/MutexImpl.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Posix/PosixHelpers.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Posix/PosixWaitObject.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Posix/SemaphoreImpl.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Posix/SocketImpl.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Posix/ThreadImpl.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Posix/ThreadLocalValueImpl.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Process.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Semaphore.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Socket.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/StackTrace.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Std/ThreadImpl.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Thread.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/ThreadLocalValue.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Time.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/TimeZone.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Tizen/ExtendedAtomicOps.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Unity/AtomicQueue.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Unity/ExtendedAtomicOps-arm.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Unity/ExtendedAtomicOps-arm64.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Unity/ExtendedAtomicOps-x86-64.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Unity/ExtendedAtomicOps-x86.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Unity/ExtendedAtomicOps.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Unity/ExtendedAtomicTypes.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Unity/UnityPlatformConfigure.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/WaitStatus.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Win32/AtomicImpl.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Win32/ConditionVariableImpl.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Win32/EventImpl.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Win32/MutexImpl.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Win32/SemaphoreImpl.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Win32/SocketImpl.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Win32/ThreadImpl.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Win32/ThreadLocalValueImpl.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Win32/WindowsHeaders.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/Win32/WindowsHelpers.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/WinRT/SynchronousOperation.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/WinRT/Win32ApiSharedEmulation.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/WinRT/Win32ApiWinRTEmulation.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/WindowsRuntime.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/c-api/Allocator.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/c-api/Atomic-c-api.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/c-api/COM-c-api.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/c-api/ConditionVariable-c-api.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/c-api/Console-c-api.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/c-api/CpuInfo-c-api.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/c-api/Cryptography-c-api.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/c-api/Debug-c-api.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/c-api/Directory-c-api.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/c-api/Environment-c-api.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/c-api/Error-c-api.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/c-api/Event-c-api.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/c-api/File-c-api.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/c-api/Handle-c-api.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/c-api/LibraryLoader-c-api.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/c-api/Locale-c-api.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/c-api/Memory-c-api.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/c-api/MemoryMappedFile-c-api.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/c-api/Messages-c-api.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/c-api/Mutex-c-api.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/c-api/NativeMethods-c-api.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/c-api/OSGlobalEnums.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/c-api/Path-c-api.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/c-api/Posix/AtomicImpl-c-api.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/c-api/Process-c-api.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/c-api/Semaphore-c-api.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/c-api/Thread-c-api.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/c-api/ThreadLocalValue-c-api.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/c-api/Time-c-api.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/c-api/TimeZone-c-api.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/c-api/WaitStatus-c-api.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/c-api/Win32/AtomicImpl-c-api.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/c-api/Win32/WindowsHeaders.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/c-api/il2cpp-config-platforms.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/os/c-api/tests/PathHelper.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/utils/CallOnce.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/utils/Collections.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/utils/DirectoryUtils.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/utils/Environment.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/utils/Exception.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/utils/Functional.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/utils/HashUtils.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/utils/Il2CppHStringReference.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/utils/Il2CppHashMap.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/utils/Il2CppHashSet.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/utils/KeyWrapper.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/utils/Logging.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/utils/MarshalingUtils.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/utils/MathUtils.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/utils/Memory.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/utils/MemoryPool.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/utils/MemoryRead.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/utils/NonCopyable.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/utils/Output.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/utils/PathUtils.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/utils/RegisterRuntimeInitializeAndCleanup.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/utils/Runtime.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/utils/StringUtils.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/utils/StringView.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/utils/StringViewStream.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/utils/TemplateUtils.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/utils/ThreadSafeFreeList.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/utils/dynamic_array.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/utils/utf8-cpp/source/utf8.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/utils/utf8-cpp/source/utf8/checked.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/utils/utf8-cpp/source/utf8/core.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/utils/utf8-cpp/source/utf8/unchecked.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm-utils/BlobReader.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm-utils/NativeDelegateMethodCache.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm-utils/NativeSymbol.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm-utils/VmStringUtils.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm/Array.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm/Assembly.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm/AssemblyName.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm/Atomic.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm/CCW.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm/COM.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm/CachedCCWBase.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm/Class.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm/ComObjectBase.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm/Domain.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm/Enum.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm/Event.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm/Exception.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm/Field.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm/GenericClass.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm/GenericContainer.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm/Image.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm/InternalCalls.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm/LastError.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm/LibraryLoader.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm/Liveness.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm/MarshalAlloc.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm/MemoryInformation.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm/MetadataAlloc.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm/MetadataCache.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm/MetadataLoader.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm/MetadataLock.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm/Method.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm/Module.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm/Monitor.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm/NonCachedCCWBase.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm/Object.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm/Parameter.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm/Path.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm/PlatformInvoke.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm/Profiler.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm/Property.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm/RCW.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm/Random.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm/Reflection.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm/Runtime.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm/StackTrace.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm/String.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm/Thread.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm/ThreadPool.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm/ThreadPoolMs.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm/Type.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm/WaitHandle.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Libraries/libil2cpp/include/vm/WindowsRuntime.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/MapFileParser.sh" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Unity-iPhone Tests/Unity-iPhone Tests-Info.plist" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Unity-iPhone Tests/Unity_iPhone_Tests.m" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Unity-iPhone Tests/en.lproj/InfoPlist.strings" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Unity-iPhone.xcodeproj/project.pbxproj" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Unity-iPhone.xcodeproj/xcshareddata/xcschemes/Unity-iPhone.xcscheme" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Unity-iPhone/Images.xcassets/AppIcon.appiconset/Contents.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Unity-iPhone/Images.xcassets/AppIcon.appiconset/Icon.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/Unity-iPhone/Images.xcassets/LaunchImage.launchimage/Contents.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/build/._Unity-iPhone.build" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Trampoline/process_symbols.sh" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-0229f6bca7f66804595545620c52d21e" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-031efe1402b4e9044b50a899b019b032" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-0fd24746c1b6ead438f00017ff1a4935" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-10a24cf27e2cc8b41b9dd2bf9360511f" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-1144fff11d832b64ca392efbbb1560f0" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-272062a699e9c884092941d1a97c012d" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-2a2fd0ac8a3fc484ab3a0372f75f3904" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-4603294203fcf4a48b60f16fa39fd237" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-48702db0c465ff44b939755e1317d55b" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-4d5f2d8e08f7fa0408ec3efb51ed0ca5" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-52458fdf24f006a4ea5ae00fd7a2d1dc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-6d9a4089687c14a47baed9beca0d7e7e" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-75ec41b17e656d94783082d85920cf13" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-893f6ddd2c1df4f4c99d237718afc4a3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-8afae8b5286e8d04f8facd6b24ea3cde" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-a002119b4c0796642a319756e68aec89" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-a3994408a01a7334095c6485ed29a9d8" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-aaa768bff1a6c0c4d933e6a1173ea9bd" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-baf5a4ddd56c99f41932b35f1f2ebbad" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-ced7f4e303595db4f8c7d8b4c99e81ba" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-cf140bb8e71545242b77217b58cdb2a6" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-d266a67d815476749a0c4ea98bbd209e" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-d9d7480a46e3a0e4f874d5ce27909430" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-de34e6059c8d38043b0ff74450859d2e" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-e226baa5ad044ef45900a20e559ce687" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-ee2b7655891ea3346bd330af75930c32" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-fa1393d7443f5ab499cf97ced0be2fa1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/__Backupscenes/0.backup" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Bulk_Assembly-CSharp_0.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Bulk_Generics_0.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Bulk_Generics_1.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Bulk_Generics_2.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Bulk_Generics_3.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Bulk_Mono.Security_0.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Bulk_Mono.Security_1.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Bulk_System.Core_0.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Bulk_System_0.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Bulk_System_1.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Bulk_UnityEngine.AIModule_0.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Bulk_UnityEngine.AnimationModule_0.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Bulk_UnityEngine.AudioModule_0.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Bulk_UnityEngine.CoreModule_0.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Bulk_UnityEngine.GameCenterModule_0.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Bulk_UnityEngine.IMGUIModule_0.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Bulk_UnityEngine.Physics2DModule_0.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Bulk_UnityEngine.PhysicsModule_0.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Bulk_UnityEngine.SharedInternalsModule_0.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Bulk_UnityEngine.TextRenderingModule_0.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Bulk_UnityEngine.UIModule_0.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Bulk_UnityEngine.UI_0.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Bulk_UnityEngine.UI_1.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Bulk_UnityEngine.UI_2.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Bulk_UnityEngine.UnityConnectModule_0.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Bulk_UnityEngine.UnityWebRequestModule_0.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Bulk_UnityEngine_0.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Bulk_mscorlib_0.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Bulk_mscorlib_1.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Bulk_mscorlib_2.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Bulk_mscorlib_3.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Bulk_mscorlib_4.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Bulk_mscorlib_5.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Bulk_mscorlib_6.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Bulk_mscorlib_7.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Bulk_mscorlib_8.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Bulk_mscorlib_9.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Data/Metadata/global-metadata.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Data/Resources/mscorlib.dll-resources.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Data/etc/mono/1.0/DefaultWsdlHelpGenerator.aspx" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Data/etc/mono/1.0/machine.config" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Data/etc/mono/2.0/Browsers/Compat.browser" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Data/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Data/etc/mono/2.0/machine.config" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Data/etc/mono/2.0/settings.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Data/etc/mono/2.0/web.config" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Data/etc/mono/browscap.ini" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Data/etc/mono/config" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Data/etc/mono/mconfig/config.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/GenericMethods0.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/GenericMethods1.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Il2CppAttributes.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Il2CppCodeRegistration.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Il2CppCompilerCalculateTypeValuesTable.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Il2CppCompilerCalculateTypeValues_0Table.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Il2CppCompilerCalculateTypeValues_10Table.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Il2CppCompilerCalculateTypeValues_11Table.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Il2CppCompilerCalculateTypeValues_12Table.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Il2CppCompilerCalculateTypeValues_13Table.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Il2CppCompilerCalculateTypeValues_14Table.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Il2CppCompilerCalculateTypeValues_15Table.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Il2CppCompilerCalculateTypeValues_16Table.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Il2CppCompilerCalculateTypeValues_17Table.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Il2CppCompilerCalculateTypeValues_1Table.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Il2CppCompilerCalculateTypeValues_2Table.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Il2CppCompilerCalculateTypeValues_3Table.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Il2CppCompilerCalculateTypeValues_4Table.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Il2CppCompilerCalculateTypeValues_5Table.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Il2CppCompilerCalculateTypeValues_6Table.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Il2CppCompilerCalculateTypeValues_7Table.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Il2CppCompilerCalculateTypeValues_8Table.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Il2CppCompilerCalculateTypeValues_9Table.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Il2CppGenericClassTable.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Il2CppGenericComDefinitions0.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Il2CppGenericInstDefinitions.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Il2CppGenericMethodDefinitions.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Il2CppGenericMethodPointerTable.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Il2CppGenericMethodTable.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Il2CppInteropDataTable.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Il2CppInvokerTable.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Il2CppMetadataRegistration.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Il2CppMetadataUsage.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Il2CppMethodPointerTable.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/Il2CppTypeDefinitions.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/UnityClassRegistration.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/UnityICallRegistration.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/il2cppOutput/il2cppOutput/UnresolvedVirtualCallStubs.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/tempFile.res" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/tempFile.resG" afterPath="" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="198">
+                <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-7" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Maze" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Maze" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6c10913e-d56b-4481-a731-bf9b7c2ce17d" name="Default" comment="" />
+      <created>1521388743957</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1521388743957</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="198">
+            <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
