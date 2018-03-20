@@ -5,6 +5,12 @@ A demo level of a third-person Pacman game built with Unity and C#
 Download the <b>Builds/PreAlpha_Win.zip</b> file, and run the <b>Maze_PreAlpha.exe</b>. 
 
 ## Updates
+### 0.0.3
+<ul>
+    <li>A new way to generate sea plane; Now the sea plane is generated during runtime with scripts(Assets/Scripts/GenerateSea.cs, Assets/Scripts/GenerateWave.cs)</li>
+</ul>
+
+
 ### 0.0.2
 <ul>
     <li>A shader of basic water surface is coded with CG/HLSL and implemented(./Assets/Shaders/Sea_Simple.shader)</li>
