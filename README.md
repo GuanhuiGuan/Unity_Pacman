@@ -10,6 +10,8 @@ Download the <b>Builds/PreAlpha_Win.zip</b> file, and run the <b>Maze_PreAlpha.e
     <li>A new way to generate sea plane; Now the sea plane is generated during runtime with scripts(Assets/Scripts/GenerateSea.cs, Assets/Scripts/GenerateWave.cs)</li>
 </ul>
 
+![](Screenshots/Ver_003.png)
+
 
 ### 0.0.2
 <ul>
